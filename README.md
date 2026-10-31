@@ -1,4 +1,4 @@
-# superstore-sales-analysis
+
    # Superstore Sales Analysis
 
 **Why is a store with $2.3M in sales keeping only 12.5% as profit, and what should it change?**
